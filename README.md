@@ -7,7 +7,7 @@ Image Relocation enables users to move all images, less than or equal to a defin
 
 ## Getting Started
 ### Windows installation
-To use Image Relocation on Windows, download the latest version of the application [here]()
+To use Image Relocation on Windows, download the latest version of the application [here](https://github.com/MatthewMoye/Image-Relocation/releases/tag/1.0)
 
 ### Nonspecific OS Installation
 - Download or clone this repository
